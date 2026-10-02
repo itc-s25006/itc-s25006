@@ -19,3 +19,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+# 💡**興味・関心**
+・🤖**AI・機械学習**を活用したWebアプリ開発
+・🌐Webサービスの設計・実装・適用
+
+---
